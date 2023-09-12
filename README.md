@@ -1,4 +1,7 @@
 # vcpp
+소공과 2-1
+201907006 정대건
+
 class 2-2 vc++
 0905 create
 repository 저장소
@@ -16,3 +19,5 @@ git push
 
 
 복붙 shift+insert
+
+
