@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Project1.cpp">
+    <ClCompile Include="commandwasd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="commandwasd_answer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="winmain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
